@@ -20,5 +20,3 @@ After target's  IP is entered the port scanner starts to work. Please note that 
 The range for the scan is port 1-1023.
 
 If port 22 happens to be open, you will be able to start a brute force attack.
-
-If port scanner found an open port 22 you will be able to conduct a brute force attack.
