@@ -6,8 +6,8 @@ Tested on Python 3.9
 Requires Npcap (https://npcap.com/) for proper work.
 
 Libraries used:
-paramiko
-scapy
+- paramiko
+- scapy
 
 Files users.txt and passwordlist.txt are needed for brute force.
 
